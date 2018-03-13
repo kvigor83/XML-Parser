@@ -1,6 +1,0 @@
-2017-09-21T17:17:08,668 [ERROR] (DataParser.java:68) - The line 2 in source file is not valid
-2017-09-21T17:17:08,684 [ERROR] (DataParser.java:68) - The line 3 in source file is not valid
-2017-09-21T17:17:08,688 [DEBUG] (DataParser.java:61) - The line 4 contains incorrect data, but there is enough data to build the tetrahedron
-2017-09-21T17:17:08,708 [INFO ] (CreatorTetrahedronFromListPoints.java:27) - mySingletonMap={0=Square = 106.80291586480477 Volume= 47.166666666666664}
-2017-09-21T17:17:08,708 [INFO ] (CreatorTetrahedronFromListPoints.java:27) - mySingletonMap={0=Square = 106.80291586480477 Volume= 47.166666666666664, 1=Square = 210.83796789590093 Volume= 140.83333333333334}
-2017-09-21T17:17:08,708 [INFO ] (CreatorTetrahedronFromListPoints.java:30) - total created  2 tetrahedrons
