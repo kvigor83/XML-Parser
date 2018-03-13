@@ -1,0 +1,757 @@
+2017-10-02T00:07:24,658 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:07:24,976 [INFO ] (ToyAction.java:35) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:13:56,983 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:13:57,072 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:13:57,073 [INFO ] (ToyAction.java:39) - 
+
+
+2017-10-02T00:13:57,085 [INFO ] (ToyAction.java:43) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:23:43,140 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:23:43,406 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:23:43,409 [INFO ] (ToyAction.java:39) - 
+
+
+2017-10-02T00:23:43,436 [INFO ] (ToyAction.java:43) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:24:23,442 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:24:23,699 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:24:23,702 [INFO ] (ToyAction.java:39) - 
+
+
+2017-10-02T00:24:23,732 [INFO ] (ToyAction.java:43) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:26:26,827 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:26:27,024 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:26:27,027 [INFO ] (ToyAction.java:39) - 
+
+
+2017-10-02T00:26:27,050 [INFO ] (ToyAction.java:43) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T00:27:42,753 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:27:43,037 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:27:43,070 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:28:12,889 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:28:13,139 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:28:13,172 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:31:19,182 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:31:19,435 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=19.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:31:19,468 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=19.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:32:49,187 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T00:32:49,446 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:32:49,478 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:33:59,874 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T00:34:00,142 [INFO ] (ToyAction.java:36) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:34:00,176 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:48:20,844 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T00:48:20,866 [INFO ] (CreatorToy.java:23) - total created  10 Toys
+2017-10-02T00:48:21,160 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:48:21,164 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:48:34,374 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T00:48:34,402 [INFO ] (CreatorToy.java:23) - total created  10 Toys
+2017-10-02T00:48:34,670 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:48:34,674 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:49:52,750 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T00:49:52,778 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T00:49:53,079 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T00:49:53,084 [INFO ] (ToyAction.java:41) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T02:07:17,178 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:07:17,190 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:17:50,450 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:17:50,462 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:17:50,614 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:17:50,618 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:18:16,323 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:18:16,335 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:18:16,483 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:18:16,487 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:28:09,672 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:28:09,680 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:36:23,165 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:36:23,193 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:36:23,197 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:37:01,520 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:37:01,548 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:37:01,552 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:37:31,056 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:37:31,080 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:37:31,084 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:37:58,003 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:37:58,031 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:37:58,039 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:38:26,780 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:38:26,804 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:38:26,808 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:42:28,590 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:42:28,604 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:42:28,738 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:42:28,740 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:43:18,584 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:43:18,596 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:43:48,676 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:43:48,688 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:43:48,840 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:43:48,840 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:44:17,963 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:44:17,975 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:44:18,107 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:44:18,111 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:50:35,773 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:50:35,785 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:50:35,789 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:50:35,797 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:50:35,797 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:50:35,797 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:50:35,801 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:51:23,541 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:51:23,553 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:51:23,557 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:51:23,565 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:51:23,569 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:51:23,569 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:51:23,573 [INFO ] (ToyAction.java:33) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T02:53:19,800 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:53:19,808 [INFO ] (ToyAction.java:33) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}
+2017-10-02T02:53:19,812 [INFO ] (ToyAction.java:33) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}
+2017-10-02T02:58:56,908 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:58:56,921 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}
+2017-10-02T02:58:56,922 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}
+2017-10-02T02:58:56,931 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:58:56,932 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}
+2017-10-02T02:58:56,933 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}
+2017-10-02T02:58:56,933 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}
+2017-10-02T02:59:09,960 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T02:59:09,972 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}
+2017-10-02T02:59:09,972 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}
+2017-10-02T02:59:09,980 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T02:59:09,984 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}
+2017-10-02T02:59:09,984 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}
+2017-10-02T02:59:09,984 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}
+2017-10-02T03:06:45,891 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T03:06:45,899 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}
+2017-10-02T03:06:45,903 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}
+2017-10-02T03:06:45,911 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T03:06:45,911 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}
+2017-10-02T03:06:45,915 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}
+2017-10-02T03:06:45,915 [INFO ] (ToyAction.java:34) - 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}
+2017-10-02T03:08:43,628 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T03:08:43,648 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T03:08:43,656 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T03:08:43,660 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T03:08:43,812 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T03:08:43,812 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T04:31:33,584 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T04:31:33,602 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T04:31:33,603 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T04:31:33,605 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T04:31:33,607 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T04:31:33,608 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T04:31:33,640 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T04:31:33,674 [INFO ] (CreatorToy.java:23) - total created  4 Toys
+2017-10-02T04:31:33,691 [INFO ] (CreatorToy.java:23) - total created  5 Toys
+2017-10-02T04:33:42,741 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T04:33:42,761 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T04:33:42,763 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T04:33:42,765 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T04:33:42,766 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T04:33:42,768 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T04:33:42,804 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:33:42,809 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:33:42,862 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:33:42,864 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:33:42,896 [INFO ] (CreatorToy.java:24) - total created  5 Toys
+2017-10-02T04:33:42,898 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:38:52,943 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T04:38:52,963 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T04:38:52,965 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T04:38:52,967 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T04:38:52,969 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T04:38:52,970 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T04:38:53,001 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:38:53,007 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:38:53,058 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:38:53,064 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:38:53,078 [INFO ] (CreatorToy.java:24) - total created  5 Toys
+2017-10-02T04:38:53,080 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:41:17,161 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T04:41:17,175 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T04:41:17,177 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T04:41:17,179 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T04:41:17,181 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T04:41:17,182 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T04:41:17,205 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:41:17,211 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:41:17,244 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:41:17,246 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:41:17,256 [INFO ] (CreatorToy.java:24) - total created  5 Toys
+2017-10-02T04:41:17,258 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, manufacturer='truck', typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, manufacturer='bike', typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:53:07,268 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T04:53:07,288 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T04:53:07,290 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T04:53:07,292 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T04:53:07,294 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T04:53:07,296 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T04:53:07,328 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:53:07,333 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:53:07,372 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:53:07,373 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:54:23,152 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T04:54:23,170 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T04:54:23,171 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T04:54:23,172 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T04:54:23,174 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T04:54:23,175 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T04:54:23,199 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:54:23,201 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:54:23,216 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T04:54:23,217 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T04:57:04,653 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T04:57:08,827 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T04:57:09,958 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T05:01:26,593 [DEBUG] (DataParser.java:35) - The line 1 is not valid
+2017-10-02T05:01:26,611 [DEBUG] (DataParser.java:35) - The line 2 is not valid
+2017-10-02T05:01:26,613 [DEBUG] (DataParser.java:35) - The line 3 is not valid
+2017-10-02T05:01:26,615 [DEBUG] (DataParser.java:35) - The line 4 is not valid
+2017-10-02T05:01:26,617 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T05:01:26,619 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T05:01:26,625 [INFO ] (CreatorToy.java:24) - total created  0 Toys
+2017-10-02T05:01:26,629 [INFO ] (CreatorToy.java:28) - []
+2017-10-02T05:01:26,703 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:01:26,710 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:05:58,566 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T05:06:09,438 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T05:06:45,199 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T05:07:17,849 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T05:07:41,183 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T05:07:41,184 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T05:07:41,184 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T05:07:41,204 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:41,206 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:07:41,230 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:41,231 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:07:41,972 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T05:07:41,973 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T05:07:41,993 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:41,995 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:07:42,016 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:42,016 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:07:42,508 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T05:07:42,517 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T05:07:42,518 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T05:07:42,518 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T05:07:42,518 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T05:07:42,519 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T05:07:42,536 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:42,538 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:07:42,552 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:42,553 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:07:42,740 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T05:07:42,750 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T05:07:42,750 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T05:07:42,751 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T05:07:42,751 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T05:07:42,752 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T05:07:42,769 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:42,772 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:07:42,788 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:07:42,788 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:08:08,659 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T05:10:21,300 [DEBUG] (DataParser.java:35) - The line 5 is not valid
+2017-10-02T05:12:01,488 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T05:12:09,020 [DEBUG] (DataParser.java:35) - The line 6 is not valid
+2017-10-02T05:12:09,022 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T05:12:09,023 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T05:12:09,024 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T05:12:09,024 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T05:12:09,027 [DEBUG] (DataParser.java:35) - The line 7 is not valid
+2017-10-02T05:12:09,028 [DEBUG] (DataParser.java:35) - The line 8 is not valid
+2017-10-02T05:12:09,029 [DEBUG] (DataParser.java:35) - The line 9 is not valid
+2017-10-02T05:12:09,030 [DEBUG] (DataParser.java:35) - The line 10 is not valid
+2017-10-02T05:12:09,047 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:12:09,049 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:12:09,050 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:12:09,051 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:12:09,069 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:12:09,070 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:12:09,070 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:12:09,070 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:12:32,163 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:12:32,168 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:12:39,901 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:12:39,924 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:13:24,499 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:13:24,522 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:21:41,145 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:21:41,163 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:23:12,346 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:23:12,363 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:23:34,383 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:23:34,405 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:39:23,687 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:39:23,697 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:39:58,120 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:39:58,141 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:41:10,109 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:41:10,124 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:45:29,206 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:45:29,226 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T05:45:35,156 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T05:45:35,172 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T06:02:29,171 [INFO ] (CreatorToy.java:24) - total created  10 Toys
+2017-10-02T06:02:29,187 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='barbie', brandName='barbie', ageCategory=THREE, material=PLASTIC, cost=15.0, weight=100, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='white', height=150.0, isInteractive=0}, 
+Transport{toyId=1, toyType=DOLL, model='maria', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=15.0, weight=120, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='black', height=200.0, isInteractive=0}, 
+Transport{toyId=1, toyType=SPORT, model='football', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=BALL, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=SPORT, model='basketball', brandName='adidas', ageCategory=FOUR, material=RUBBER, cost=40.0, weight=600, typeSportToy=BALL, mainColour='ORANGE', mainSize=240}, 
+Transport{toyId=1, toyType=MUSIC, model='rainbow', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=61.0, weight=1500, typeMusicToy=PIANO, numberTones=30, length=300.0, height=200.0, mainColour='BLACK'}, 
+Transport{toyId=1, toyType=MUSIC, model='boom', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=15.5, weight=600, typeMusicToy=DRUM, numberTones=1, length=200.0, height=200.0, mainColour='YELLOW'}]
+2017-10-02T06:02:29,207 [INFO ] (CreatorToy.java:24) - total created  4 Toys
+2017-10-02T06:02:29,207 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T06:08:07,174 [INFO ] (CreatorToy.java:24) - total created  10 Toys
+2017-10-02T06:08:07,186 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='barbie', brandName='barbie', ageCategory=THREE, material=PLASTIC, cost=15.0, weight=100, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='white', height=150.0, isInteractive=0}, 
+Transport{toyId=1, toyType=DOLL, model='maria', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=15.0, weight=120, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='black', height=200.0, isInteractive=0}, 
+Transport{toyId=1, toyType=SPORT, model='football', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=BALL, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=SPORT, model='basketball', brandName='adidas', ageCategory=FOUR, material=RUBBER, cost=40.0, weight=600, typeSportToy=BALL, mainColour='ORANGE', mainSize=240}, 
+Transport{toyId=1, toyType=MUSIC, model='rainbow', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=61.0, weight=1500, typeMusicToy=PIANO, numberTones=30, length=300.0, height=200.0, mainColour='BLACK'}, 
+Transport{toyId=1, toyType=MUSIC, model='boom', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=15.5, weight=600, typeMusicToy=DRUM, numberTones=1, length=200.0, height=200.0, mainColour='YELLOW'}]
+2017-10-02T06:08:07,198 [INFO ] (CreatorToy.java:24) - total created  7 Toys
+2017-10-02T06:08:07,198 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='masha', brandName='mir', ageCategory=THREE, material=PLASTIC, cost=14.0, weight=100, typeDoll=SOFT, mainClothesColour='ping', hairColour='white', height=180.0, isInteractive=1}, 
+Transport{toyId=1, toyType=SPORT, model='bigger', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=SKATE, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=MUSIC, model='plus', brandName='gdong', ageCategory=TWO, material=PLASTIC, cost=28.0, weight=500, typeMusicToy=XYLOPHONE, numberTones=30, length=300.0, height=200.0, mainColour='blue'}]
+2017-10-02T06:08:40,568 [INFO ] (CreatorToy.java:24) - total created  10 Toys
+2017-10-02T06:08:40,584 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='barbie', brandName='barbie', ageCategory=THREE, material=PLASTIC, cost=15.0, weight=100, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='white', height=150.0, isInteractive=0}, 
+Transport{toyId=1, toyType=DOLL, model='maria', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=15.0, weight=120, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='black', height=200.0, isInteractive=0}, 
+Transport{toyId=1, toyType=SPORT, model='football', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=BALL, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=SPORT, model='basketball', brandName='adidas', ageCategory=FOUR, material=RUBBER, cost=40.0, weight=600, typeSportToy=BALL, mainColour='ORANGE', mainSize=240}, 
+Transport{toyId=1, toyType=MUSIC, model='rainbow', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=61.0, weight=1500, typeMusicToy=PIANO, numberTones=30, length=300.0, height=200.0, mainColour='BLACK'}, 
+Transport{toyId=1, toyType=MUSIC, model='boom', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=15.5, weight=600, typeMusicToy=DRUM, numberTones=1, length=200.0, height=200.0, mainColour='YELLOW'}]
+2017-10-02T06:08:40,596 [INFO ] (CreatorToy.java:24) - total created  7 Toys
+2017-10-02T06:08:40,596 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='masha', brandName='mir', ageCategory=THREE, material=PLASTIC, cost=14.0, weight=100, typeDoll=SOFT, mainClothesColour='ping', hairColour='white', height=180.0, isInteractive=1}, 
+Transport{toyId=1, toyType=SPORT, model='bigger', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=SKATE, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=MUSIC, model='plus', brandName='gdong', ageCategory=TWO, material=PLASTIC, cost=28.0, weight=500, typeMusicToy=XYLOPHONE, numberTones=30, length=300.0, height=200.0, mainColour='blue'}]
+2017-10-02T06:27:17,223 [INFO ] (CreatorToy.java:24) - total created  10 Toys
+2017-10-02T06:27:17,231 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='barbie', brandName='barbie', ageCategory=THREE, material=PLASTIC, cost=15.0, weight=100, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='white', height=150.0, isInteractive=0}, 
+Transport{toyId=1, toyType=DOLL, model='maria', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=15.0, weight=120, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='black', height=200.0, isInteractive=0}, 
+Transport{toyId=1, toyType=SPORT, model='football', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=BALL, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=SPORT, model='basketball', brandName='adidas', ageCategory=FOUR, material=RUBBER, cost=40.0, weight=600, typeSportToy=BALL, mainColour='ORANGE', mainSize=240}, 
+Transport{toyId=1, toyType=MUSIC, model='rainbow', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=61.0, weight=1500, typeMusicToy=PIANO, numberTones=30, length=300.0, height=200.0, mainColour='BLACK'}, 
+Transport{toyId=1, toyType=MUSIC, model='boom', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=15.5, weight=600, typeMusicToy=DRUM, numberTones=1, length=200.0, height=200.0, mainColour='YELLOW'}]
+2017-10-02T06:27:17,235 [INFO ] (CreatorToy.java:24) - total created  7 Toys
+2017-10-02T06:27:17,239 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='masha', brandName='mir', ageCategory=THREE, material=PLASTIC, cost=14.0, weight=100, typeDoll=SOFT, mainClothesColour='ping', hairColour='white', height=180.0, isInteractive=1}, 
+Transport{toyId=1, toyType=SPORT, model='bigger', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=SKATE, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=MUSIC, model='plus', brandName='gdong', ageCategory=TWO, material=PLASTIC, cost=28.0, weight=500, typeMusicToy=XYLOPHONE, numberTones=30, length=300.0, height=200.0, mainColour='blue'}]
+2017-10-02T06:27:17,243 [INFO ] (CreatorToy.java:24) - total created  5 Toys
+2017-10-02T06:27:17,243 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T06:27:17,247 [INFO ] (CreatorToy.java:24) - total created  5 Toys
+2017-10-02T06:27:17,247 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}]
+2017-10-02T06:27:17,343 [INFO ] (CreatorToy.java:24) - total created  5 Toys
+2017-10-02T06:27:17,343 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}]
+2017-10-02T06:27:17,347 [INFO ] (CreatorToy.java:24) - total created  7 Toys
+2017-10-02T06:27:17,347 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='masha', brandName='mir', ageCategory=THREE, material=PLASTIC, cost=14.0, weight=100, typeDoll=SOFT, mainClothesColour='ping', hairColour='white', height=180.0, isInteractive=1}, 
+Transport{toyId=1, toyType=SPORT, model='bigger', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=SKATE, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=MUSIC, model='plus', brandName='gdong', ageCategory=TWO, material=PLASTIC, cost=28.0, weight=500, typeMusicToy=XYLOPHONE, numberTones=30, length=300.0, height=200.0, mainColour='blue'}]
+2017-10-02T06:27:17,355 [INFO ] (CreatorToy.java:24) - total created  10 Toys
+2017-10-02T06:27:17,355 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=300, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=13.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=15.5, weight=200, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='barbie', brandName='barbie', ageCategory=THREE, material=PLASTIC, cost=15.0, weight=100, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='white', height=150.0, isInteractive=0}, 
+Transport{toyId=1, toyType=DOLL, model='maria', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=15.0, weight=120, typeDoll=CLASSIC_DOLL, mainClothesColour='ping', hairColour='black', height=200.0, isInteractive=0}, 
+Transport{toyId=1, toyType=SPORT, model='football', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=BALL, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=SPORT, model='basketball', brandName='adidas', ageCategory=FOUR, material=RUBBER, cost=40.0, weight=600, typeSportToy=BALL, mainColour='ORANGE', mainSize=240}, 
+Transport{toyId=1, toyType=MUSIC, model='rainbow', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=61.0, weight=1500, typeMusicToy=PIANO, numberTones=30, length=300.0, height=200.0, mainColour='BLACK'}, 
+Transport{toyId=1, toyType=MUSIC, model='boom', brandName='gdong', ageCategory=THREE, material=PLASTIC, cost=15.5, weight=600, typeMusicToy=DRUM, numberTones=1, length=200.0, height=200.0, mainColour='YELLOW'}]
+2017-10-02T06:27:17,359 [INFO ] (CreatorToy.java:24) - total created  7 Toys
+2017-10-02T06:27:17,359 [INFO ] (CreatorToy.java:28) - [
+Transport{toyId=1, toyType=TRANSPORT, model='leva', brandName='polesie', ageCategory=TWO, material=PLASTIC, cost=10.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, length=40.0, numberWheels=4, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto1', brandName='polesie', ageCategory=THREE, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=23.0, numberWheels=2, bodyColour='RED', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto2', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=30.0, numberWheels=2, bodyColour='YELLOW', scale='1:10'}, 
+Transport{toyId=1, toyType=TRANSPORT, model='moto3', brandName='polesie', ageCategory=FOUR, material=PLASTIC, cost=11.5, weight=340, typeTransport=BIKE, typeControl=MANUAL, length=50.0, numberWheels=2, bodyColour='GREEN', scale='1:10'}, 
+Transport{toyId=1, toyType=DOLL, model='masha', brandName='mir', ageCategory=THREE, material=PLASTIC, cost=14.0, weight=100, typeDoll=SOFT, mainClothesColour='ping', hairColour='white', height=180.0, isInteractive=1}, 
+Transport{toyId=1, toyType=SPORT, model='bigger', brandName='nike', ageCategory=THREE, material=RUBBER, cost=16.0, weight=250, typeSportToy=SKATE, mainColour='WHITE', mainSize=230}, 
+Transport{toyId=1, toyType=MUSIC, model='plus', brandName='gdong', ageCategory=TWO, material=PLASTIC, cost=28.0, weight=500, typeMusicToy=XYLOPHONE, numberTones=30, length=300.0, height=200.0, mainColour='blue'}]

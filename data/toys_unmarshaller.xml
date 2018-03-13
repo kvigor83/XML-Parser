@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns:toys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:ns="http://www.third/kastsiuchenka.by/toys"
+         xsi:schemaLocation="http://www.third/kastsiuchenka.by/toys toy.xsd">
+
+    <ns:music-toy toy-id="t1" toy-type="MUSIC_TOY" is-interactive="true">
+        <ns:model>FunnyPiano</ns:model>
+        <ns:brand-name>CHUI</ns:brand-name>
+        <ns:material>PLASTIC</ns:material>
+        <ns:cost>120.00</ns:cost>
+        <ns:external-parameters>
+            <ns:weigth>2000</ns:weigth>
+            <ns:length>60</ns:length>
+            <ns:width>30</ns:width>
+            <ns:heigth>10</ns:heigth>
+        </ns:external-parameters>
+        <ns:type-music-toy>PIANO</ns:type-music-toy>
+        <ns:number-tones>40</ns:number-tones>
+        <ns:main-colour>RED</ns:main-colour>
+    </ns:music-toy>
+</ns:toys>

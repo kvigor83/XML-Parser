@@ -1,0 +1,16 @@
+
+10,-3.0,-1.0     5.0,4.0,2.0     -1.0,-4.0,3.0    -5.0,1.0,0.0    -5.0,1.0,0.0
+10,-3.0,-1.0     5.0,4.0,2.0     -1.0,-4.0,3.0    -5.0,1.0,0.0fhdjf
+10,-3.0,-1.0     5.0,4.0,2.0                         -1.0,-4.0,3.0
+
+ewr
+
+
+werw
+
+music rainbow gdong 3+ plastic 61.0 1500 piano 30 300 200 BLACK
+music boom gdong 3+ plastic 15.5 600 drum 1 200 200 YELLOW
+sport basketball adidas 6+ rubber 40.0 600 ball ORANGE 240
+sport football nike 3+ rubber 16.0 250 ball WHITE 230
+doll barbie barbie 3+ plastic 15.0 100 classic_doll ping white 150 0
+doll maria polesie 1+ plastic 15.0 120 classic_doll ping black 200 0

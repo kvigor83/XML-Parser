@@ -1,0 +1,26 @@
+2017-10-25T15:54:08,384 [INFO ] (MarshalActionToy.java:28) - XML file has been created
+2017-10-25T15:54:08,631 [INFO ] (TestSAX.java:19) - [
+MusicToy{toyId='t4', toyType=MUSIC_TOY, model='baraban', brandName='YELLOW', material=PLASTIC, cost=7.5, weight=300, typeMusicToy=null, numberTones=0, mainColour=null, isInteractive=true}, 
+MusicToy{toyId='t11', toyType=MUSIC_TOY, model='gitara', brandName='ORANGE', material=PLASTIC, cost=17.5, weight=500, typeMusicToy=null, numberTones=0, mainColour=null, isInteractive=false}, 
+MusicToy{toyId='t16', toyType=MUSIC_TOY, model='funfun', brandName='ORANGE', material=PLASTIC, cost=30.5, weight=500, typeMusicToy=null, numberTones=0, mainColour=null, isInteractive=false}, 
+MusicToy{toyId='t10', toyType=MUSIC_TOY, model='tramboline', brandName='BLUE', material=PLASTIC, cost=20.0, weight=500, typeMusicToy=null, numberTones=0, mainColour=null, isInteractive=false}, 
+MusicToy{toyId='t1', toyType=MUSIC_TOY, model='FunnyPiano', brandName='RED', material=PLASTIC, cost=120.0, weight=2000, typeMusicToy=null, numberTones=0, mainColour=null, isInteractive=true}, 
+TransportToy{toyId='t14', toyType=TRANSPORT_TOY, model='RED', brandName='MANUAL', material=STEEL, cost=12.0, weight=500, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:12'}, 
+MusicToy{toyId='t5', toyType=MUSIC_TOY, model='1234', brandName='YELLOW', material=PLASTIC, cost=100.0, weight=300, typeMusicToy=null, numberTones=0, mainColour=null, isInteractive=true}, 
+TransportToy{toyId='t13', toyType=TRANSPORT_TOY, model='WHITE', brandName='MANUAL', material=PLASTIC, cost=12.0, weight=400, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:10'}, 
+TransportToy{toyId='t8', toyType=TRANSPORT_TOY, model='RED', brandName='MANUAL', material=PLASTIC, cost=12.0, weight=250, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:16'}, 
+TransportToy{toyId='t15', toyType=TRANSPORT_TOY, model='BLACK', brandName='MANUAL', material=STEEL, cost=12.0, weight=400, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:11'}, 
+TransportToy{toyId='t9', toyType=TRANSPORT_TOY, model='RED', brandName='MANUAL', material=PLASTIC, cost=12.0, weight=400, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:10'}, 
+MusicToy{toyId='t2', toyType=MUSIC_TOY, model='dudka', brandName='YELLOW', material=PLASTIC, cost=7.5, weight=300, typeMusicToy=null, numberTones=0, mainColour=null, isInteractive=true}, 
+TransportToy{toyId='t6', toyType=TRANSPORT_TOY, model='RED', brandName='MANUAL', material=PLASTIC, cost=12.0, weight=250, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:15'}, 
+TransportToy{toyId='t12', toyType=TRANSPORT_TOY, model='RED', brandName='MANUAL', material=PLASTIC, cost=12.0, weight=400, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:11'}, 
+TransportToy{toyId='t3', toyType=TRANSPORT_TOY, model='RED', brandName='MANUAL', material=PLASTIC, cost=12.0, weight=250, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:15'}, 
+TransportToy{toyId='t7', toyType=TRANSPORT_TOY, model='RED', brandName='RADIO', material=PLASTIC, cost=12.0, weight=250, typeTransport=null, typeControl=null, bodyColour=null, numberWeels=4, scale='1:5'}]
+2017-10-25T15:54:08,910 [INFO ] (TestStAX.java:19) - [
+MusicToy{toyId='t5', toyType=MUSIC_TOY, model='1234', brandName='malan', material=PLASTIC, cost=100.0, weight=300, typeMusicToy=XYLOPHONE, numberTones=12, mainColour=YELLOW, isInteractive=false}, 
+TransportToy{toyId='t6', toyType=TRANSPORT_TOY, model='tramboline', brandName='polesie', material=PLASTIC, cost=20.0, weight=500, typeTransport=TRUCK, typeControl=MANUAL, bodyColour=RED, numberWeels=4, scale='1:15'}, 
+MusicToy{toyId='t2', toyType=MUSIC_TOY, model='dudka', brandName='polesie', material=PLASTIC, cost=7.5, weight=300, typeMusicToy=PIPE, numberTones=12, mainColour=YELLOW, isInteractive=false}, 
+MusicToy{toyId='t1', toyType=MUSIC_TOY, model='FunnyPiano', brandName='CHUI', material=PLASTIC, cost=120.0, weight=2000, typeMusicToy=PIANO, numberTones=40, mainColour=RED, isInteractive=false}, 
+MusicToy{toyId='t11', toyType=MUSIC_TOY, model='gitara', brandName='belvar', material=PLASTIC, cost=17.5, weight=500, typeMusicToy=GUITAR, numberTones=12, mainColour=ORANGE, isInteractive=false}, 
+TransportToy{toyId='t3', toyType=TRANSPORT_TOY, model='baraban', brandName='mali', material=PLASTIC, cost=7.5, weight=300, typeTransport=SPORTCAR, typeControl=MANUAL, bodyColour=RED, numberWeels=4, scale='1:15'}, 
+TransportToy{toyId='t12', toyType=TRANSPORT_TOY, model='funfun', brandName='belvar', material=PLASTIC, cost=30.5, weight=500, typeTransport=EXCAVATOR, typeControl=MANUAL, bodyColour=BLACK, numberWeels=4, scale='1:11'}]

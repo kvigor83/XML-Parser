@@ -1,0 +1,5 @@
+transport moto1 polesie 3+ plastic 11.5 300 bike manual 23 2 RED 1:10
+transport moto1 polesie 6+ plastic 15.5 200 bike manual 50 2 GREEN 1:10
+transport leva polesie 1+ plastic 10.0 500 truck manual 40 4 YELLOW 1:10
+transport moto1 polesie 6+ plastic 11.5 200 bike manual 50 2 GREEN 1:10
+transport moto1 polesie 6+ plastic 13.5 340 bike manual 30 2 YELLOW 1:10

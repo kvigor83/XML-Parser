@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.third/kastsiuchenka.by/toys"
+        xmlns:tns="http://www.third/kastsiuchenka.by/toys" elementFormDefault="qualified">
+    <element name="toy" type="tns:Toy" abstract="true"></element>
+    <element name="transport-toy" type="tns:Transport-toy" substitutionGroup="tns:toy"></element>
+    <element name="music-toy" type="tns:Music-toy" substitutionGroup="tns:toy"></element>
+    <element name="toys">
+        <complexType>
+            <sequence>
+                <element ref="tns:toy" minOccurs="2" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+    <complexType name="Toy">
+        <sequence>
+            <element name="model" type="tns:Model"/>
+            <element name="brand-name">
+                <simpleType>
+                    <restriction base="string">
+                        <pattern value="(\w){3,20}"/>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="material" type="tns:Material"/>
+            <element name="cost" type="tns:Cost"/>
+            <element name="external-parameters" type="tns:External-parameter"/>
+        </sequence>
+        <attribute name="toy-id" type="tns:Toy-id" use="required"/>
+        <attribute name="toy-type" type="tns:Toy-type" use="required"/>
+    </complexType>
+    <complexType name="Transport-toy">
+        <complexContent>
+            <extension base="tns:Toy">
+                <sequence>
+                    <element name="type-transport" type="tns:Type-transport-toy"/>
+                    <element name="type-control" type="tns:Type-control"/>
+                    <element name="body-colour" type="tns:Colour"/>
+                </sequence>
+                <attribute name="number-weels" type="tns:Number-weels" use="required"/>
+                <attribute name="scale" type="tns:Scale" use="optional" default="1:12"/>
+            </extension>
+        </complexContent>
+    </complexType>
+    <complexType name="Music-toy">
+        <complexContent>
+            <extension base="tns:Toy">
+                <sequence>
+                    <element name="type-music-toy" type="tns:Type-music-toy"/>
+                    <element name="number-tones" type="tns:Number-tones"/>
+                    <element name="main-colour" type="tns:Colour"/>
+                </sequence>
+                <attribute name="is-interactive" type="boolean" use="optional" default="false"/>
+            </extension>
+        </complexContent>
+    </complexType>
+    <simpleType name="Toy-id">
+        <restriction base="ID">
+            <pattern value="t\w{1,4}"/>
+        </restriction>
+    </simpleType>
+    <simpleType name="Toy-type">
+        <restriction base="string">
+            <enumeration value="TRANSPORT_TOY"></enumeration>
+            <enumeration value="SPORT_TOY"></enumeration>
+            <enumeration value="DOLL"></enumeration>
+            <enumeration value="MUSIC_TOY"></enumeration>
+        </restriction>
+    </simpleType>
+    <simpleType name="Model">
+        <restriction base="string">
+            <pattern value="(\w){3,20}"/>
+        </restriction>
+    </simpleType>
+    <simpleType name="Material">
+        <restriction base="string">
+            <enumeration value="PLASTIC"></enumeration>
+            <enumeration value="WOOD"></enumeration>
+            <enumeration value="STEEL"></enumeration>
+            <enumeration value="GLASS"></enumeration>
+            <enumeration value="TEXTALE"></enumeration>
+            <enumeration value="PAPER"></enumeration>
+        </restriction>
+    </simpleType>
+    <simpleType name="Cost">
+        <restriction base="double">
+            <pattern value="\d{1,4}[.]?\d{0,2}"/>
+        </restriction>
+    </simpleType>
+    <complexType name="External-parameter">
+        <sequence>
+            <element name="weigth">
+                <simpleType>
+                    <restriction base="positiveInteger">
+                        <minInclusive value="1"/>
+                        <maxInclusive value="10000"/>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="length" type="tns:Size"/>
+            <element name="width" type="tns:Size"/>
+            <element name="heigth" type="tns:Size"/>
+        </sequence>
+
+    </complexType>
+    <simpleType name="Size">
+        <restriction base="integer">
+            <minInclusive value="0"/>
+            <maxInclusive value="200"/>
+        </restriction>
+    </simpleType>
+    <simpleType name="Number-weels">
+        <restriction base="positiveInteger">
+            <minInclusive value="2"/>
+            <maxInclusive value="10"/>
+        </restriction>
+    </simpleType>
+    <simpleType name="Scale">
+        <restriction base="string">
+            <pattern value="([1][:]\d{1,2})?"/>
+        </restriction>
+    </simpleType>
+    <simpleType name="Type-transport-toy">
+        <restriction base="string">
+            <enumeration value="TRUCK"></enumeration>
+            <enumeration value="CAR"></enumeration>
+            <enumeration value="TRAILER"></enumeration>
+            <enumeration value="SPORTCAR"></enumeration>
+            <enumeration value="BIKE"></enumeration>
+            <enumeration value="EXCAVATOR"></enumeration>
+        </restriction>
+    </simpleType>
+    <simpleType name="Type-music-toy">
+        <restriction base="string">
+            <enumeration value="PIANO"></enumeration>
+            <enumeration value="PIPE"></enumeration>
+            <enumeration value="DRUM"></enumeration>
+            <enumeration value="GUITAR"></enumeration>
+            <enumeration value="XYLOPHONE"></enumeration>
+            <enumeration value="TAMBOURINE"></enumeration>
+        </restriction>
+    </simpleType>
+    <simpleType name="Type-control">
+        <restriction base="string">
+            <enumeration value="MANUAL"></enumeration>
+            <enumeration value="RADIO"></enumeration>
+            <enumeration value="ELECTRICAL"></enumeration>
+        </restriction>
+    </simpleType>
+    <simpleType name="Number-tones">
+        <restriction base="positiveInteger">
+            <minInclusive value="1"/>
+            <maxInclusive value="40"/>
+        </restriction>
+    </simpleType>
+    <simpleType name="Colour">
+        <restriction base="string">
+            <enumeration value="BLUE"></enumeration>
+            <enumeration value="RED"></enumeration>
+            <enumeration value="WHITE"></enumeration>
+            <enumeration value="BLACK"></enumeration>
+            <enumeration value="YELLOW"></enumeration>
+            <enumeration value="ORANGE"></enumeration>
+            <enumeration value="GREEN"></enumeration>
+            <enumeration value="BROWN"></enumeration>
+        </restriction>
+    </simpleType>
+</schema>
