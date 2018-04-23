@@ -1,7 +1,0 @@
-transport leva polesie 1+ plastic 10.0 500 truck manual 40 4 YELLOW 1:10
-transport moto1 polesie 3+ plastic 11.5 340 bike manual 23 2 RED 1:10
-transport moto2 polesie 6+ plastic 11.5 340 bike manual 30 2 YELLOW 1:10
-transport moto3 polesie 6+ plastic 11.5 340 bike manual 50 2 GREEN 1:10
-doll masha mir 3+ plastic 14.0 100 soft ping white 180 1
-sport bigger nike 3+ rubber 16.0 250 SKATE WHITE 230
-music plus gdong 1+ plastic 28.0 500 XYLOPHONE 30 300 200 blue
